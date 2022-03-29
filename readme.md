@@ -40,7 +40,7 @@ https://miro.medium.com/max/700/1*MNCKTImyRp3xmnTwFeoYaw.png.
 
 ## Dia 1
 
-1. Revisar documento del reto para entender el reto y revisar la API para revisar endpoint, no respondio la API dada en la documentación al parecer no esta en servicio por lo cual se uso la siguiente opción.
+1. Revisar documento del reto para entender el reto y revisar la API para revisar endpoint, no respondio la API dada en la documentación al parecer no esta en servicio por lo cual se uso la siguiente opción: https://restcountries.com/v2/all .
 
 2. Revisar documentación sobre consumo de API con Ajax.
 
