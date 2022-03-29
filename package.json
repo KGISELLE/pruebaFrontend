@@ -1,0 +1,23 @@
+{
+  "name": "clickpanda",
+  "version": "1.0.0",
+  "description": "Aplicacion de informacion sobre paises del mundo para prueba tecnica frontend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KGISELLE/pruebaFrontend.git"
+  },
+  "keywords": [],
+  "author": "Giselle Bernal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KGISELLE/pruebaFrontend/issues"
+  },
+  "homepage": "https://github.com/KGISELLE/pruebaFrontend#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

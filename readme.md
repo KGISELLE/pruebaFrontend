@@ -54,12 +54,22 @@ https://miro.medium.com/max/700/1*MNCKTImyRp3xmnTwFeoYaw.png.
 
 5. Estructurar el boilerPlate del proyecto.
 
-6. Instalar Bootstrap en el proyecto.
+6. Revisar paleta de colores.
 
-7. Revisar paleta de colores.
+7. Averiguar sobre "Lazy load" para implementarlo en el proyecto.
 
-8. Averiguar sobre "Lazy load" para implementarlo en el proyecto.
+8. Inicializar repositorio de git para llevar control de versiones del proyecto.
 
-9. Inicializar repositorio de git para llevar control de versiones del proyecto.
+9. Crear el repositorio de git y el repo local.
 
-10. Crear el repositorio de git y el repo local.
+10. Crear el archivo package.json para poder utilizar sass y bootstrap.
+ ```
+ npm init -y
+ ```
+
+11. Instalar Bootstrap en el proyecto.
+  ```
+  npm install bootstrap
+  ```
+
+12. 
