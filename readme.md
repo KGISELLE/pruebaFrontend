@@ -19,16 +19,21 @@
 [] Adicionalmente, usando bootstrap y flexbox, debajo del dropdown menú deben haber múltiples contenedores (cards).
 
 [] Cada una de las (cards) debe contener:
-- La bandera
-- El nombre del país
-- Su moneda.
+[] La bandera.
+[✓] El nombre del país.
+[] Su moneda.
 
-[] Estos contenedores se deben ajustar al tamaño de pantalla de acuerdo a su criterio. 
+[✓] Estos contenedores se deben ajustar al tamaño de pantalla de acuerdo a su criterio. 
 
 [] Es importante que estos contenedores tengan un diseño atractivo para el usuario usando estilos CSS, y la paleta de colores a usar debe ser la de la siguiente imagen: 
 https://miro.medium.com/max/700/1*MNCKTImyRp3xmnTwFeoYaw.png. 
 
-[] Importante usar gradientes, sombras, bordes, transiciones y efectos en los botones.
+[] Importante usar:
+[] Gradientes
+[✓] Sombras 
+[✓] Bordes 
+[] Transiciones
+[] Efectos en los botones.
 
 [] La carga de las banderas debe usar "lazy load".
 
@@ -72,4 +77,24 @@ https://miro.medium.com/max/700/1*MNCKTImyRp3xmnTwFeoYaw.png.
   npm install bootstrap
   ```
 
-12. 
+12. Maquetación inicial de header y main
+
+13. Uso de SASS para reasignar estilos al Bootstrap por medio de variables.
+
+14. Maquetacion de header terminada con boton de filtro y boton de orden aleatorio, falta funcionalidad.
+
+15. Consumo de API por medio de AJAX.
+
+16. Maquetacion incial de las tarjetas para pintar los datos obtenidos desde el API.
+
+17. Traer el nombre de los paises desde el API.
+
+
+## Dia 2
+
+1. Lograr diseño responsive de la maquetacion de las tarjetas.
+
+2. Traer la moneda y la bandera del pais y mostrarlas en las tarjetas.
+
+3. Lograr que el boton random funcione para mostrar las tarjetas aleatoriamente.
+
