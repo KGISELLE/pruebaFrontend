@@ -28,8 +28,8 @@
 [] Es importante que estos contenedores tengan un diseño atractivo para el usuario usando estilos CSS, y la paleta de colores a usar debe ser la de la siguiente imagen: 
 https://miro.medium.com/max/700/1*MNCKTImyRp3xmnTwFeoYaw.png. 
 
-[] Importante usar:
-[] Gradientes
+Importante usar:
+[✓] Gradientes
 [✓] Sombras 
 [✓] Bordes 
 [] Transiciones
@@ -94,7 +94,7 @@ https://miro.medium.com/max/700/1*MNCKTImyRp3xmnTwFeoYaw.png.
 
 1. Lograr diseño responsive de la maquetacion de las tarjetas.
 
-2. Traer la moneda y la bandera del pais y mostrarlas en las tarjetas.
+2. Traer la bandera del pais y mostrarlas en las tarjetas.
 
-3. Lograr que el boton random funcione para mostrar las tarjetas aleatoriamente.
+3. Lograr en el listado del filtrar por pais salgan todos los paises.
 

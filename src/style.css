@@ -5,6 +5,17 @@ header {
 .card{
   box-shadow: 8px 8px 25px #524165;
   width: 20%;
+  background-color: #52aed3;
+  background-image: linear-gradient(0deg, #52aed3 0%, #4873a9 50%, #5a5387 100%);
+}
+
+#dolar:hover{
+  background-color: #524165;
+}
+
+#desplegable{
+  background-color: #41cac5;
+  background-image: linear-gradient(315deg, #41cac5 0%, #52aed3 22%, #4873a9 49%, #5a5387 75%, #524165 100%);
 }
 
 
