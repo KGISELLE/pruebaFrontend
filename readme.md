@@ -7,25 +7,25 @@
 
 ## OBJETIVOS
 
-[] Usando la última versión de bootstrap, crear una página web con un dropdown menú superior centrado.
+[✓] Usando la última versión de bootstrap, crear una página web con un dropdown menú superior centrado.
 
-[] Este dropdown debe contener todos los países que se entregan usando el API: <br>
+[✓] Este dropdown debe contener todos los países que se entregan usando el API: <br>
 - https://restcountries.eu/rest/v2/all.
 
-[] Esta lista debe obtenerse usando AJAX.
+[✓] Esta lista debe obtenerse usando AJAX.
 
 [] Debe popular automáticamente todas las opciones del dropdown menu.
 
-[] Adicionalmente, usando bootstrap y flexbox, debajo del dropdown menú deben haber múltiples contenedores (cards).
+[✓] Adicionalmente, usando bootstrap y flexbox, debajo del dropdown menú deben haber múltiples contenedores (cards).
 
-[] Cada una de las (cards) debe contener:
-[] La bandera.
+Cada una de las (cards) debe contener:
+[✓] La bandera.
 [✓] El nombre del país.
 [] Su moneda.
 
 [✓] Estos contenedores se deben ajustar al tamaño de pantalla de acuerdo a su criterio. 
 
-[] Es importante que estos contenedores tengan un diseño atractivo para el usuario usando estilos CSS, y la paleta de colores a usar debe ser la de la siguiente imagen: 
+[✓] Es importante que estos contenedores tengan un diseño atractivo para el usuario usando estilos CSS, y la paleta de colores a usar debe ser la de la siguiente imagen: 
 https://miro.medium.com/max/700/1*MNCKTImyRp3xmnTwFeoYaw.png. 
 
 Importante usar:
@@ -37,9 +37,12 @@ Importante usar:
 
 [] La carga de las banderas debe usar "lazy load".
 
-[] Al seleccionar un país en el dropdown, se deben eliminar todos los demás países y sólo se debe mostrar el contenedor del país seleccionado.
+Al seleccionar un país en el dropdown: 
+[✓] Se deben eliminar todos los demás países
+[] Sólo se debe mostrar el contenedor del país seleccionado.
 
-[] Al visitar la página se deben mostrar los países en orden alfabético, sin embargo, ya sea debajo del dropdown o al lado, debe haber un botón que organice los contenedores al azar al hacer click.
+[✓] Al visitar la página se deben mostrar los países en orden alfabético, 
+[] Sin embargo, ya sea debajo del dropdown o al lado, debe haber un botón que organice los contenedores al azar al hacer click.
 
 
 
@@ -97,4 +100,13 @@ Importante usar:
 2. Traer la bandera del pais y mostrarlas en las tarjetas.
 
 3. Lograr en el listado del filtrar por pais salgan todos los paises.
+
+4. Intentar que aparezcan la moneda del cada pais (Pendeiente).
+
+5. Lograr que al dar click en alguno de los paises del listado se borre el contenido de main.
+
+6. Lograr que al dar click en alguno de los paises del listado solo se muestre la tarjeta del pais seleccionado (Pendiente).
+
+
+## Dia 3
 
