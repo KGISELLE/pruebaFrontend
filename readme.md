@@ -21,7 +21,7 @@
 Cada una de las (cards) debe contener:
 [✓] La bandera.
 [✓] El nombre del país.
-[] Su moneda.
+[🤔] Su moneda.
 
 [✓] Estos contenedores se deben ajustar al tamaño de pantalla de acuerdo a su criterio. 
 
@@ -39,7 +39,7 @@ Importante usar:
 
 Al seleccionar un país en el dropdown: 
 [✓] Se deben eliminar todos los demás países
-[] Sólo se debe mostrar el contenedor del país seleccionado.
+[✓] Sólo se debe mostrar el contenedor del país seleccionado.
 
 [✓] Al visitar la página se deben mostrar los países en orden alfabético, 
 [] Sin embargo, ya sea debajo del dropdown o al lado, debe haber un botón que organice los contenedores al azar al hacer click.
@@ -101,12 +101,22 @@ Al seleccionar un país en el dropdown:
 
 3. Lograr en el listado del filtrar por pais salgan todos los paises.
 
-4. Intentar que aparezcan la moneda del cada pais (Pendeiente).
+4. Intentar que aparezcan la moneda del cada pais (Pendiente).
 
 5. Lograr que al dar click en alguno de los paises del listado se borre el contenido de main.
 
-6. Lograr que al dar click en alguno de los paises del listado solo se muestre la tarjeta del pais seleccionado (Pendiente).
-
 
 ## Dia 3
+
+1. Lograr que al dar click en alguno de los paises del listado solo se muestre la tarjeta del pais seleccionado.
+
+2. Al filtrar el pais seleccionado aparece la tarjeta con el la bandera, el nombre del pais y su moneda.
+
+3. Realizar transicion del boton randon que al incio diga ramdom pero que al dar click diga ordenar (Pendiente).
+
+4. Que al dar click en el boton randon cuando dice randon, muestre todas las tarjetas en orden aleatorio (Pendiente).
+
+5. Que al dar click en el boton randon cuando dice ordenar, muestre todas las tarjetas en orden alfabetico (Pendiente).
+
+6. Realizar deploy de la app (Pendiente).
 
