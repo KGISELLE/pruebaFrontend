@@ -35,7 +35,7 @@ Importante usar:
 [] Transiciones
 [✓] Efectos en los botones.
 
-[] La carga de las banderas debe usar "lazy load".
+[✓] La carga de las banderas debe usar "lazy load".
 
 Al seleccionar un país en el dropdown: 
 [✓] Se deben eliminar todos los demás países
@@ -117,6 +117,8 @@ Al seleccionar un país en el dropdown:
 4. Realizar funcion que organice la data aleatoriamente.
 
 5. Realizar Funcion que organice la data por orden alfabetico
+
+6. Agregar Lazy Loading a la carga de imagenes.
 
 6. Que al dar click en el boton randon cuando dice randon, muestre todas las tarjetas en orden aleatorio (Pendiente).
 

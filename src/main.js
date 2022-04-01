@@ -52,7 +52,7 @@ const eachCard = (data) => {
   data.forEach(element => {
     elements += `
     <div class="card border border-primary border-2">
-    <img src="${element.flag}" class="card-img-top" id="hola" alt="Country-Flag" height="120rem">
+    <img loading="lazy" src="${element.flag}" class="card-img-top" id="hola" alt="Country-Flag" height="120rem">
       <ul class="list-group list-group-flush" id="containerInfo">
         <li class="list-group-item bg-info text-uppercase text-center fw-bold text-light">${element.name}</li>
       </ul>
