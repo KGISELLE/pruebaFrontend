@@ -124,5 +124,5 @@ Al seleccionar un país en el dropdown:
 
 7. Que al dar click en el boton randon cuando dice ordenar, muestre todas las tarjetas en orden alfabetico (Pendiente).
 
-8. Realizar deploy de la app (Pendiente).
+8. Realizar deploy de la app, deploy con github pages.
 
