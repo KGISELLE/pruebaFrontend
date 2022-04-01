@@ -14,7 +14,7 @@
 
 [✓] Esta lista debe obtenerse usando AJAX.
 
-[] Debe popular automáticamente todas las opciones del dropdown menu.
+[✓] Debe popular automáticamente todas las opciones del dropdown menu.
 
 [✓] Adicionalmente, usando bootstrap y flexbox, debajo del dropdown menú deben haber múltiples contenedores (cards).
 
@@ -33,7 +33,7 @@ Importante usar:
 [✓] Sombras 
 [✓] Bordes 
 [] Transiciones
-[] Efectos en los botones.
+[✓] Efectos en los botones.
 
 [] La carga de las banderas debe usar "lazy load".
 
@@ -57,8 +57,8 @@ Al seleccionar un país en el dropdown:
 4. Estructurar la planeación del proyecto con sus actividades.
 
 * Dia 1: Planeación, organización, maquetación Inicial y petición API.
-* Dia 2: 
-* Dia 3:
+* Dia 2: Mostrar la información solicitada en tarjetas de cada país y filtar por país.
+* Dia 3: Boton random, deploy y finalizar detalles.
 
 5. Estructurar el boilerPlate del proyecto.
 
@@ -112,11 +112,15 @@ Al seleccionar un país en el dropdown:
 
 2. Al filtrar el pais seleccionado aparece la tarjeta con el la bandera, el nombre del pais y su moneda.
 
-3. Realizar transicion del boton randon que al incio diga ramdom pero que al dar click diga ordenar (Pendiente).
+3. Realizar transicion del boton randon que al incio diga ramdom pero que al dar click diga ordenar.
 
-4. Que al dar click en el boton randon cuando dice randon, muestre todas las tarjetas en orden aleatorio (Pendiente).
+4. Realizar funcion que organice la data aleatoriamente.
 
-5. Que al dar click en el boton randon cuando dice ordenar, muestre todas las tarjetas en orden alfabetico (Pendiente).
+5. Realizar Funcion que organice la data por orden alfabetico
 
-6. Realizar deploy de la app (Pendiente).
+6. Que al dar click en el boton randon cuando dice randon, muestre todas las tarjetas en orden aleatorio (Pendiente).
+
+7. Que al dar click en el boton randon cuando dice ordenar, muestre todas las tarjetas en orden alfabetico (Pendiente).
+
+8. Realizar deploy de la app (Pendiente).
 
